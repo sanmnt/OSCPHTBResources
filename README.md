@@ -3,9 +3,11 @@ Resources
 
 
 ## Try Hack Me
+https://tryhackme.com/room/windows10privesc
 
+https://tryhackme.com/room/linuxprivesc
 ## Microsoft
-
+https://docs.microsoft.com/en-us/learn/
 ## Linux 
 
 ## Hack Tricks
