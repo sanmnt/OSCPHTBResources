@@ -42,3 +42,9 @@ JWT Tokens
 https://jwt.io
 
 
+## Binaries/Scripts/Fun
+
+https://lolbas-project.github.io/
+
+https://gtfobins.github.io/
+
