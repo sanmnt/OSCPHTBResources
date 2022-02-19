@@ -10,6 +10,8 @@ https://tryhackme.com/room/linuxprivesc
 https://docs.microsoft.com/en-us/learn/
 ## Linux 
 
+https://github.com/sanmnt/OSCPHTBResources/blob/main/LinuxNotes.zip
+
 ## Hack Tricks
 https://book.hacktricks.xyz/
 
