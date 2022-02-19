@@ -12,6 +12,8 @@ https://docs.microsoft.com/en-us/learn/
 
 https://github.com/sanmnt/OSCPHTBResources/blob/main/LinuxNotes.zip
 
+https://explainshell.com/
+
 ## Hack Tricks
 https://book.hacktricks.xyz/
 
@@ -38,4 +40,5 @@ https://snyk.io/
 JWT Tokens
 
 https://jwt.io
+
 
