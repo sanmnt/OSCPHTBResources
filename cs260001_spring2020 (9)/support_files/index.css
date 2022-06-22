@@ -1,0 +1,109 @@
+body {
+    background: #dddddd;
+}
+
+h2 { /* Day Heading */
+    border: solid green 2px;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+h3 { /* Slide Heading */
+    font-style: italic;
+    border-bottom: dotted black 2px;
+    font-size: 1.4em;
+}
+
+.outline-text-3 {
+    margin-left: 1%;
+}
+
+.outline-4 {
+    margin-left: 1%;
+}
+
+h4 { /* Topic Heading 1 */
+    font-size: 1.2em;
+}
+
+.outline-text-4 {
+    margin-left: 1%;
+}
+
+.outline-5 {
+    margin-left: 1%;
+}
+
+h5 { /* Topic Heading 2 */
+    font-size: 1.1em;
+}
+
+.outline-text-5 {
+    margin-left: 1%;
+}
+
+.outline-6 {
+    margin-left: 1%;
+}
+
+h6 { /* Topic Heading 3 */
+    font-size: 1em;
+}
+
+.outline-text-6 {
+    margin-left: 1%;
+}
+
+.example {
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #888888;
+    background: #ffffff;
+}
+
+.src {
+    border: solid black 0px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #888888;
+    background: #000000;
+    color: #ffffff;
+}
+
+.term {
+    background: #ffffaa;
+    border: solid black 1px;
+    padding: 1px;
+    border-radius: 3px;
+}
+
+.termdef {
+    background: #ffffdd;
+    padding: 1px;
+    border-radius: 3px;
+}
+
+li {
+    margin-top: 5px;
+}
+
+.cmd { /* Need to define these! */
+    border: solid 1px black;
+    background: #ffffff;
+    border-radius: 3px;
+    padding: 2px 5px 2px 5px;
+    font-weight: bold;
+    font-family: courier;
+}
+
+.fname { /* Need to define these! */
+    border: solid 1px black;
+    background: #ffffcc;
+    border-radius: 3px 3px 3px 3px;
+    font-style: italic;
+    font-size: 0.9em;
+    padding: 2px 5px 2px 5px;
+}
+
+.code-highlighted {
+    background-color: #444444;
+    border: solid red 2px;
+}
